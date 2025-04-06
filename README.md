@@ -1,8 +1,24 @@
-# React + Vite
+# React + Vite + Node
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Notes Maker App
 
-Currently, two official plugins are available:
+A simple and effective MERN stack notes application to create, edit, and delete notes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- CRUD for notes
+- Markdown support
+- MongoDB for storage
+- Responsive React interface
+
+## Installation
+
+- Frontend: `npm install && npm start` inside `client`
+- Backend: `npm install && npm start` inside `server`
+
+## Tech Stack
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
